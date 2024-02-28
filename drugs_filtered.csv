@@ -1,0 +1,14 @@
+DrugA,DrugB,Interaction,Mechanism,risk_level
+Interferon alfa-n1,Janssen COVID-19 Vaccine,The therapeutic efficacy of Janssen COVID-19 Vaccine can be decreased when used in combination with Interferon alfa-n1.,decrease,no risk
+Interferon alfa-n1,Japanese encephalitis virus strain sa 14-14-2 antigen (formaldehyde inactivated),The therapeutic efficacy of Japanese encephalitis virus strain sa 14-14-2 antigen (formaldehyde inactivated) can be decreased when used in combination with Interferon alfa-n1.,decrease,no risk
+Interferon alfa-n1,Ublituximab,The risk or severity of infection can be increased when Ublituximab is combined with Interferon alfa-n1.,increase,risk
+Interferon alfa-n1,Upadacitinib,The risk or severity of adverse effects can be increased when Interferon alfa-n1 is combined with Upadacitinib.,increase,risk
+Interferon alfa-n1,Urokinase,The risk or severity of bleeding can be increased when Urokinase is combined with Interferon alfa-n1.,increase,risk
+Interferon alfa-n1,Warfarin,The metabolism of Warfarin can be decreased when combined with Interferon alfa-n1.,decrease,no risk
+Interferon alfa-n1,Ximelagatran,The risk or severity of bleeding can be increased when Ximelagatran is combined with Interferon alfa-n1.,increase,risk
+Interferon alfa-n1,Yellow fever vaccine,The risk or severity of infection can be increased when Yellow fever vaccine is combined with Interferon alfa-n1.,increase,risk
+Interferon alfa-n1,Zidovudine,The risk or severity of adverse effects can be increased when Interferon alfa-n1 is combined with Zidovudine.,increase,risk
+Interferon alfa-n1,Zileuton,The metabolism of Zileuton can be decreased when combined with Interferon alfa-n1.,decrease,no risk
+Interferon alfa-n1,Zolmitriptan,The metabolism of Zolmitriptan can be decreased when combined with Interferon alfa-n1.,decrease,no risk
+Interferon alfa-n1,Zolpidem,The metabolism of Zolpidem can be decreased when combined with Interferon alfa-n1.,decrease,no risk
+Interferon alfa-n1,Zotepine,The metabolism of Zotepine can be decreased when combined with Interferon alfa-n1.,decrease,no risk
